@@ -1,6 +1,2 @@
 apply plugin: 'java'
-
-repositories {
-    mavenCentral()
-}
-
+apply plugin: 'scala'
